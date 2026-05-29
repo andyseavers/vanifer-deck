@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "deckVersion": 1,
-  "updatedAt": "2026-05-20T13:42:24Z",
+  "deckVersion": 2,
+  "updatedAt": "2026-05-29T11:04:09Z",
   "namespace": "6f4e2c1d-3a8b-4f5c-9d1e-7a8f6b3c4d2e",
   "lessons": {
     "incorporated": [
@@ -36,6 +36,15 @@
         "via": "initial-seed",
         "lessonDate": "2026-05-14",
         "firefliesNote": "Recording from 2026-05-14 corresponds to this lesson; do not reprocess"
+      },
+      {
+        "id": "1.7",
+        "incorporatedAt": "2026-05-29T11:04:09Z",
+        "via": "auto",
+        "lessonDate": "2026-05-28",
+        "firefliesTranscriptId": "01KSJF0VT1HXZ7PXTSJQQAPDEM",
+        "driveDocId": "1aWuOil23CpGdFyCbLsTi4zj8nl3aJYTY",
+        "cardsAdded": 40
       }
     ],
     "skipped": [],
@@ -4001,6 +4010,366 @@
       "notes": "",
       "lessonId": null,
       "addedAt": "2026-05-20T00:00:00Z"
+    },
+    {
+      "id": "F2B1ABCB-D461-56C9-B630-498566B2CCB9",
+      "english": "to enjoy",
+      "spanish": "disfrutar",
+      "category": "verbs",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "5104FA95-CC97-5350-A537-D6C30BCF35F4",
+      "english": "How was?",
+      "spanish": "¿Cómo fue?",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "51A47C20-8429-5A55-BC4D-79522ACCA6E4",
+      "english": "work trip",
+      "spanish": "el viaje de trabajo",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "4D2A6917-2436-54F5-B3D2-C72471DB20C2",
+      "english": "law firm",
+      "spanish": "el despacho de abogados",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "F1C8D0EB-AA44-5391-8C46-4CEFC141C020",
+      "english": "the business",
+      "spanish": "el negocio",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "F80A6723-F506-5A2E-9D2E-A2F7B230981C",
+      "english": "early",
+      "spanish": "temprano",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "9B3AC089-50DC-52EF-8F19-4DD7F0338B27",
+      "english": "noon",
+      "spanish": "el mediodía",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "7F69D756-1E3C-5BD0-804C-06D69C650D81",
+      "english": "the meeting",
+      "spanish": "la reunión",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "0369ED9E-229C-59F6-91CA-B7C8FD2758E8",
+      "english": "the breakfast",
+      "spanish": "el desayuno",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "6BD581C6-8770-532C-A9DF-DBB40FDCA35D",
+      "english": "to you (informal)",
+      "spanish": "contigo",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "22BE43B2-5049-5F4F-8C28-5D9CE56CC503",
+      "english": "At what time?",
+      "spanish": "¿A qué hora?",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "3C705B49-27F3-573B-AEA2-C40DD2B41AFC",
+      "english": "Monday",
+      "spanish": "lunes",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "7EF61674-8D50-585D-8862-69EE122664E9",
+      "english": "Tuesday",
+      "spanish": "martes",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "467B81BD-BBDD-5CCD-91F8-5AD61D8ACD26",
+      "english": "Wednesday",
+      "spanish": "miércoles",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "7E4EC130-7E29-54E2-B2BD-F53A27B1A1CB",
+      "english": "Thursday",
+      "spanish": "jueves",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "E32E5847-2B47-5329-93C9-F81371ECC224",
+      "english": "Friday",
+      "spanish": "viernes",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "E1C0B2FE-1591-58FA-8D85-2E32CDAE9785",
+      "english": "Saturday",
+      "spanish": "sábado",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "1540ECFA-D9B0-574B-AB87-DFD3661CE464",
+      "english": "Sunday",
+      "spanish": "domingo",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "7E5E70FE-CB95-5F14-97FD-93304627F546",
+      "english": "twenty-two",
+      "spanish": "veintidós",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "FCAB16CC-D5BD-5B7B-9CAB-1176D1180355",
+      "english": "twenty-four",
+      "spanish": "veinticuatro",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "82EA8C11-133D-5FCD-8EFD-890A92B85C47",
+      "english": "three hundred",
+      "spanish": "trescientos",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "EDD761D2-02E4-5D29-B653-381C51254D0F",
+      "english": "four hundred",
+      "spanish": "cuatrocientos",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "73779266-9459-54B7-9EC9-79BBCAAFC05F",
+      "english": "seven hundred",
+      "spanish": "setecientos",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "44C0ACF5-9CC1-5659-B519-3059F22BA9FC",
+      "english": "eight hundred",
+      "spanish": "ochocientos",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "9842ED6A-B197-5CE1-BA47-23831BA9533C",
+      "english": "usually",
+      "spanish": "usualmente",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "28EE2D1D-7D3C-54C2-8028-FFF3A9A54B48",
+      "english": "normally",
+      "spanish": "normalmente",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "F3496F64-812A-5562-A9A6-AB3E249E114E",
+      "english": "un vs una vs uno",
+      "spanish": "un + masc noun; una + fem noun; uno stands alone (no noun after)",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "5F65E5CE-4843-5ED0-A72F-44F3BB578AC0",
+      "english": "20s number formation",
+      "spanish": "20s contract into one word: veintiuno, veintidós (y → i)",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "907F7BF6-DC78-58D0-BB5E-F7A4F5FD6A0A",
+      "english": "30s-90s number formation",
+      "spanish": "Use 'y' between: treinta y uno, cuarenta y dos",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "EC923E95-6241-5D0C-BD0C-4B542C6223E2",
+      "english": "Hundreds + numbers omit 'y'",
+      "spanish": "ciento veinte, ciento uno (no 'y' between hundred and the rest)",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "D172E428-89E3-57A0-BE14-EB15040046E3",
+      "english": "cien vs ciento",
+      "spanish": "cien stands alone (100); ciento precedes another number (101 = ciento uno)",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "B5851EB8-8160-5F68-AB7F-AA70BB583339",
+      "english": "a la una vs a las",
+      "spanish": "Use 'a la una' for 1 o'clock; 'a las' for all other hours",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "8E3EC3E4-E34B-5A76-9FA1-93E2A8E87CE5",
+      "english": "Days of the week gender",
+      "spanish": "All days of the week are masculine — use el/los",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "35945AE1-5431-5267-A5B9-1E96C31446F3",
+      "english": "el lunes vs los lunes",
+      "spanish": "el lunes = on Monday (one time); los lunes = on Mondays (recurring)",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "B86CDE24-ACBA-5F93-88CA-6A6A1D49051B",
+      "english": "Words ending in -ión",
+      "spanish": "Nouns ending in -ión are feminine: la reunión, la lección",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "D53E0D3A-FE47-5C56-AC09-2DA7A62E714A",
+      "english": "Pluralizing consonant endings",
+      "spanish": "If a word ends in a consonant, add -es to pluralize (reunión → reuniones)",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "0A16D02F-1463-5AD4-B2D5-1EEF538DE165",
+      "english": "English -ly = Spanish -mente",
+      "spanish": "Add -mente to form adverbs: usualmente, normalmente, constantemente",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "9CB3F1C1-F1C4-5F95-9AD4-F095C797EF50",
+      "english": "hablar con vs hablar a",
+      "spanish": "In Spanish you talk WITH a person: 'hablar con' (not 'hablar a')",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "9A569E81-8EEC-5043-9CDD-E3049CBA56BB",
+      "english": "Sentence-initial noun needs article",
+      "spanish": "When a sentence begins with a noun, include the article: 'El café está listo'",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "F2139143-DE52-524A-B758-78DE200CC9EF",
+      "english": "to give a speech",
+      "spanish": "dar una conferencia",
+      "category": "phrases",
+      "notes": "",
+      "lessonId": "1.7",
+      "addedAt": "2026-05-29T11:04:09Z"
     }
   ]
 }
