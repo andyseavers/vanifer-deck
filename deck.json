@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "deckVersion": 2,
-  "updatedAt": "2026-05-29T11:04:09Z",
+  "deckVersion": 3,
+  "updatedAt": "2026-06-12T11:02:43Z",
   "namespace": "6f4e2c1d-3a8b-4f5c-9d1e-7a8f6b3c4d2e",
   "lessons": {
     "incorporated": [
@@ -45,6 +45,15 @@
         "firefliesTranscriptId": "01KSJF0VT1HXZ7PXTSJQQAPDEM",
         "driveDocId": "1aWuOil23CpGdFyCbLsTi4zj8nl3aJYTY",
         "cardsAdded": 40
+      },
+      {
+        "id": "1.8",
+        "incorporatedAt": "2026-06-12T11:02:43Z",
+        "via": "auto",
+        "lessonDate": "2026-06-11",
+        "firefliesTranscriptId": "01KTPGK19A4DM95W0VP0NB7VFR",
+        "driveDocId": "1pMGpCF2DrBN2yxVQfyJezUBZNdnI5mMeqYVNEZ9qISA",
+        "cardsAdded": 59
       }
     ],
     "skipped": [],
@@ -4370,6 +4379,537 @@
       "notes": "",
       "lessonId": "1.7",
       "addedAt": "2026-05-29T11:04:09Z"
+    },
+    {
+      "id": "2449432A-F1BA-5BF0-BC57-857853430989",
+      "english": "the yard",
+      "spanish": "el jardín",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "ADB1DF84-B3D2-522B-8190-FFFB839099B0",
+      "english": "the grass",
+      "spanish": "el pasto",
+      "category": "vocabulary",
+      "notes": "also: el césped",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "A8715738-799B-5A9A-9994-F584CF5890F2",
+      "english": "the last time",
+      "spanish": "la última vez",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "E046945A-65F8-5434-A987-4552AB5DA3F1",
+      "english": "with me",
+      "spanish": "conmigo",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "A41775D4-17E5-564C-AB1A-01D6E0218647",
+      "english": "useful",
+      "spanish": "útil",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "15D86E34-BB1B-5ADF-AC9A-075D9F4DF8A9",
+      "english": "lately",
+      "spanish": "últimamente",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "111B3610-4553-5617-AF8C-2C482EAB04C4",
+      "english": "once per month",
+      "spanish": "una vez por mes",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "2BB60541-EB35-5DB3-9CCC-CA098BD3745A",
+      "english": "the oldest (masc.)",
+      "spanish": "el mayor",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "0D7E2503-F5C4-51FE-8404-E03551A1AC1E",
+      "english": "the oldest (fem.)",
+      "spanish": "la mayor",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "761331D5-9654-5A20-8F83-C1192BA4789E",
+      "english": "siblings",
+      "spanish": "hermanos",
+      "category": "vocabulary",
+      "notes": "covers brothers + mixed siblings",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "8838C659-EAEA-50DE-A1B1-48D773681BF5",
+      "english": "sports",
+      "spanish": "deportes",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "F7B00D6F-736D-5EA6-AB65-8D68416A174C",
+      "english": "the match",
+      "spanish": "el partido",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "00F2BA6B-635D-554C-8FE6-0D8D0F8CC012",
+      "english": "the team",
+      "spanish": "el equipo",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "D4B50025-800E-5B5D-94E6-FBE511A4C565",
+      "english": "videogame",
+      "spanish": "videojuego",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "A72837D2-7271-50CD-9700-514F34314897",
+      "english": "maybe",
+      "spanish": "tal vez",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "DF89FEC4-FC58-5300-B69E-BF3ACA006CB0",
+      "english": "the time (frequency)",
+      "spanish": "la vez",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "0BA3E253-B5E5-57E3-8C47-7A08210C3E09",
+      "english": "November",
+      "spanish": "noviembre",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "1DE6A352-B2AE-5F75-8479-3E2223CB0E57",
+      "english": "another (masc.)",
+      "spanish": "otro",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "5E8F7A68-F5BE-5BEA-B525-252942EB5BA3",
+      "english": "another (fem.)",
+      "spanish": "otra",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "457EDEE0-CF06-51A8-92F8-05987622FB9A",
+      "english": "next year",
+      "spanish": "próximo año",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "549B52B1-B03B-58DA-890C-FC7CAAAB7FA2",
+      "english": "Day of the Dead",
+      "spanish": "Día de los Muertos",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "C2C4EEB1-AFC3-5DCB-B0A6-051E1030B70B",
+      "english": "have you ever?",
+      "spanish": "¿alguna vez?",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "A8425485-9FAA-5803-B0BF-52D31006C938",
+      "english": "not yet",
+      "spanish": "todavía no",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "4F68F194-042F-5F64-B325-E479386428BC",
+      "english": "the back (body)",
+      "spanish": "la espalda",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "AF3642A8-6B00-5E07-98D2-927DE88D9C41",
+      "english": "the leg",
+      "spanish": "la pierna",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "B455F2C4-622E-59F5-B96B-8930BC3870C1",
+      "english": "the joke",
+      "spanish": "la broma",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "536EDFBE-F111-55E0-A865-83B4181F3829",
+      "english": "skulls",
+      "spanish": "calaveras",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "498FC3DB-6D6C-5D2A-9DDE-F6A32B84C2F7",
+      "english": "the marriage",
+      "spanish": "el matrimonio",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "2032409E-9C67-52E9-ABD8-7086B77A74D0",
+      "english": "the tattoo",
+      "spanish": "el tatuaje",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "816B7F84-B3DE-5937-AC52-B332C1E96CE4",
+      "english": "good idea",
+      "spanish": "buena idea",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "F9398696-3DEE-52DB-9E10-C7406B213898",
+      "english": "if",
+      "spanish": "si",
+      "category": "vocabulary",
+      "notes": "no accent — vs sí (yes)",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "095ABB34-A47A-55EB-AA8E-5DC137DF1FD3",
+      "english": "calmer",
+      "spanish": "más tranquilo",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "4C302129-D19F-5E5C-934A-0453EDE962E1",
+      "english": "slower",
+      "spanish": "más lento",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "1F35CBBB-BA39-54DF-944A-78A6B48D759E",
+      "english": "new (masc.)",
+      "spanish": "nuevo",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "ECD76E7D-23D7-5C7D-B6BA-4D7DC5585765",
+      "english": "new (fem.)",
+      "spanish": "nueva",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "5B64C20C-F847-5D0F-9382-D86E46AD6046",
+      "english": "the porch",
+      "spanish": "el pórtico",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "199579CF-1596-5507-8D53-76BD061138B5",
+      "english": "the wood",
+      "spanish": "la madera",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "D9DAC2E8-A53C-547D-AC60-ED38C5B0D205",
+      "english": "brittle",
+      "spanish": "frágil",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "94A32A1B-6267-522F-8A7B-BDDC7DD24B60",
+      "english": "the pool",
+      "spanish": "la piscina",
+      "category": "vocabulary",
+      "notes": "Mexico often uses la alberca",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "07967670-ED2E-5F85-93E8-3E7487C74CC1",
+      "english": "tonight",
+      "spanish": "esta noche",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "0186C708-800C-5B3C-8154-A178050F3FE6",
+      "english": "so / then",
+      "spanish": "entonces",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "E1350095-0240-5085-AF86-5AF8E6016169",
+      "english": "small or medium companies",
+      "spanish": "las pymes",
+      "category": "vocabulary",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "66CAD396-1FEB-5FA6-AC18-A0148D0712F3",
+      "english": "to cut / to trim",
+      "spanish": "cortar",
+      "category": "verbs",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "2768A653-F40F-500B-AFEF-A22A01464B1D",
+      "english": "to spend time",
+      "spanish": "pasar tiempo",
+      "category": "verbs",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "0A34B7EE-832D-50AE-A6D0-690495AD596A",
+      "english": "to spend money",
+      "spanish": "gastar",
+      "category": "verbs",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "3BCCF842-6713-50D8-91B5-FB6F136B1EBC",
+      "english": "to depend",
+      "spanish": "depender",
+      "category": "verbs",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "6A7B5424-49DD-5DFB-8C45-D7D391802BC1",
+      "english": "to represent",
+      "spanish": "representar",
+      "category": "verbs",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "4641F571-CCB7-5355-9F28-2FE7AB51E9E6",
+      "english": "to begin",
+      "spanish": "comenzar",
+      "category": "verbs",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "11646D66-7C82-5B01-BFD7-FC1E860173E4",
+      "english": "to build",
+      "spanish": "construir",
+      "category": "verbs",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "D31EF110-0E1D-59C3-B1B6-F1660BA82C68",
+      "english": "expressing age",
+      "spanish": "use tener — 'tengo 20 años' (I have 20 years), not soy 20",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "2AC3A982-FF61-53C4-A2F3-1C56DA8B9144",
+      "english": "comparatives (slower, prettier)",
+      "spanish": "más + adjective (más lento, más bonito) — Spanish has no -er suffix",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "F2560AFC-6D67-5402-8EAA-DA307AE7F1D1",
+      "english": "plural rule (vowel ending)",
+      "spanish": "add -s (libro → libros)",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "ECCEEF69-474F-5C86-BF58-36D33F94F44D",
+      "english": "plural rule (consonant ending)",
+      "spanish": "add -es (mayor → mayores)",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "E12DE7A6-2714-55C5-B1DF-1B2BBD8A4180",
+      "english": "para vs a (with verb)",
+      "spanish": "use para before an infinitive meaning 'in order to' (para ver = in order to see)",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "3C7756A5-6776-5381-BF81-9F9846A59584",
+      "english": "hay",
+      "spanish": "means 'there is' / 'there are' (hay un evento esta noche)",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "2230FB35-64E0-5146-8398-64E4CF71EFB8",
+      "english": "si vs sí",
+      "spanish": "si (no accent) = if; sí (with accent) = yes",
+      "category": "grammar",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "1A89D182-0CA4-58F3-9C9A-140DE270C848",
+      "english": "what else?",
+      "spanish": "¿qué más?",
+      "category": "phrases",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "B2F8570B-AB96-5F4C-BE37-8D8900798347",
+      "english": "that is",
+      "spanish": "eso es",
+      "category": "phrases",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
+    },
+    {
+      "id": "D67D60B1-0A71-509B-8A16-4403AB9A1BA1",
+      "english": "for that reason",
+      "spanish": "por eso",
+      "category": "phrases",
+      "notes": "",
+      "lessonId": "1.8",
+      "addedAt": "2026-06-12T11:02:43Z"
     }
   ]
 }
